@@ -1,6 +1,6 @@
 {
   "name": "becky",
   "description": "smart chatbot",
-  "repository": "",
+  "repository": "https://github.com/nehamangla/becky.git",
   "keywords": ["api.ai", "natural language"]
 }
